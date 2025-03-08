@@ -18,6 +18,3 @@ As a **data analyst**, your goal is to:
 ## 📜 License
 This project is under the **MIT License**. Feel free to use and contribute!
 
----
-
-This structure ensures that **all datasets, scripts, queries, and results are well-organized**. Now, **upload your solution zip file**, and I will help you integrate it properly. 🚀
