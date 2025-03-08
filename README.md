@@ -22,7 +22,7 @@ The repository contains an **IMDb questionnaire** (`IMDB_questionnaire.sql`) cov
 
 Each question is formulated to provide **actionable insights** for RSVP Movies' strategic decision-making.
 
-## **🚀 How to Use the Project**  
+## ** How to Use the Project**  
 1. **Set up the Database:**  
    - Run `IMDB_dataset_import.sql` to create and populate the database.  
    - Use `IMDb_movies_Data_and_ERD.xlsx` for table relationships.  
