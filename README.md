@@ -32,8 +32,8 @@ Each question is formulated to provide **actionable insights** for RSVP Movies' 
    - Execute queries sequentially in **MySQL Workbench** or any SQL environment.  
 
 3. **Analyze Business Insights:**  
-   - Explore `solutions/` for optimized SQL queries.  
-   - Review `reports/Executive_Summary.pdf` for key findings.
+   - Explore solutions under `RSVP_Movie_Assignment_KDJ.zip` for optimized SQL queries.  
+   - Review `Executive_Summary.pdf` for key findings.
 
 ## **🛠 Technologies Used**  
 - **SQL (MySQL)**
