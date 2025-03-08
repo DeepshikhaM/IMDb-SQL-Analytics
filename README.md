@@ -3,7 +3,7 @@
 
 📊 **Leveraging SQL to Extract Actionable Insights from IMDb Movie Data**  
 
-## ** Project Overview**  
+## Project Overview
 This project provides an **SQL-based data analytics solution** for RSVP Movies, an Indian film production company, to **optimize decision-making using IMDb movie data**. By analyzing historical movie trends, audience preferences, and competitor performance, this project aims to **derive key business insights and recommendations**.  
 
 ## **📂 Repository Structure**  
